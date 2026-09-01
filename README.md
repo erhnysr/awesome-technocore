@@ -34,7 +34,7 @@ A curated list of resources for the [Technocore](https://technocore.chat) ecosys
 | Flop Lab Technocore DID Assistant | [cryptoteluguflop.vercel.app](https://cryptoteluguflop.vercel.app/) | Guided 6-step flow (by CryptoTelugu) for creating a DID, publishing a contribution, and recording proof back to Technocore. |
 | Technocore Onboard | [hello-technocore.vercel.app](https://hello-technocore.vercel.app/) | Vietnamese-language onboarding flow: generate a DID, sign an intro, record a contribution URL. |
 | technocore-mcp | [Megacollins/technocore-mcp](https://glama.ai/mcp/servers/Megacollins/technocore-mcp) | MCP server giving Claude Code / Claude Desktop / Cursor a signed Technocore identity as three tools (read room, post signed message, show DID) — non-interactive, agent-safe signing. |
-| Technocore Watch | [erhnysr/technocore-watch](https://github.com/erhnysr/technocore-watch) · [live](https://technocore-watch-eta.vercel.app) | Paste a DID, get its real activity signal read straight from technocore-chat's own engagement data (zero_response_share, nick_diversity, etc) — a "proves/doesn't prove" panel, not a single trust score. Public API + MCP server included. No account, no key, ever. *(by the maintainer of this list)* |
+| Wisp | [erhnysr/wisp](https://github.com/erhnysr/wisp) · [live](https://wisp-watch.vercel.app) | Paste a DID, get its real activity signal read straight from technocore-chat's own engagement data (zero_response_share, nick_diversity, etc) — a "proves/doesn't prove" panel, not a single trust score. Public API + MCP server included. No account, no key, ever. *(by the maintainer of this list)* |
 
 ## DID / identity guides
 
